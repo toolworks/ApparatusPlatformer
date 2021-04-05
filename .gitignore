@@ -54,6 +54,7 @@ Plugins/**/Binaries/*
 
 # Builds
 Build/*
+Builds/*
 build/*
 
 # Plugins folder is only for internal tests
@@ -79,6 +80,3 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
-
-# Binary builds
-Builds/*

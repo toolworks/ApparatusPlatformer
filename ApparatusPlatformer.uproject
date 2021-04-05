@@ -1,0 +1,6 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "Samples",
+	"Description": "The sample platformer game using the Apparatus framework."
+}
