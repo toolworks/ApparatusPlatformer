@@ -5,5 +5,9 @@ Content
 DerivedDataCache
 Intermediate
 Saved
+Script
+SSHKeys
 Plugins/Apparatus/.git
+Plugins/Apparatus/Docs
+Plugins/Apparatus/Docs.Src
 Plugins/Apparatus/Intermediate
