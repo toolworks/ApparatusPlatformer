@@ -11,6 +11,6 @@ public class ApparatusPlatformerTarget : TargetRules
 
         DefaultBuildSettings = BuildSettingsVersion.V2;
 
-        ExtraModuleNames.AddRange(new string[] { "ApparatusPlatformer" });
+        ExtraModuleNames.AddRange(new string[] { "ApparatusPlatformer", "ApparatusRuntime" });
     }
 }
