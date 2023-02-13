@@ -11,6 +11,6 @@ public class ApparatusPlatformerEditorTarget : TargetRules
 
         DefaultBuildSettings = BuildSettingsVersion.V2;
 
-        ExtraModuleNames.AddRange(new string[] { "ApparatusPlatformer" });
+        ExtraModuleNames.AddRange(new string[] { "ApparatusPlatformer", "ApparatusEditor" });
     }
 }
